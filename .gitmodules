@@ -1,0 +1,6 @@
+[submodule "SRL_Assistant_Hackathon"]
+	path = SRL_Assistant_Hackathon
+	url = https://github.com/Ghenntoggy1/SRL_Assistant_Hackathon
+[submodule "xmas-hack"]
+	path = xmas-hack
+	url = https://github.com/yum3lo/xmas-hack.git
